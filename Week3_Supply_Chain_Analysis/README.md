@@ -150,12 +150,6 @@ This project strengthened my skills in Python-based data analysis and Power BI d
 
 ---
 
-## Dashboard Preview
-
-![Supply Chain Dashboard](Dashboard Week3_SupplyChain Screenshot (PNG) 2026-07-20 214835)
-
----
-
 ## Author
 
 **Shahzadi Noor**
@@ -165,3 +159,4 @@ Data Analysis Intern — LogicStack
 GitHub: https://github.com/shahzadinoor277-code
 
 LinkedIn: https://www.linkedin.com/in/shahzadi-noor-50137a382
+
