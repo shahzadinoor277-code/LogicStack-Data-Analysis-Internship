@@ -120,8 +120,18 @@ Designed an interactive dashboard containing:
 - Business Reporting
 - GitHub Documentation
 
----
-
 ## Project Outcome
 
-This project strengthened my understanding of business analytics by transforming 
+This project strengthened my understanding of business analytics by transforming raw retail sales data into interactive dashboards and actionable insights. It improved my practical skills in Excel, Power BI, KPI analysis, and data visualization, helping me better understand how businesses use data to support decision-making.
+
+---
+
+## Author
+
+**Shahzadi Noor**
+
+Data Analysis Intern at LogicStack
+
+GitHub: https://github.com/shahzadinoor277-code
+
+LinkedIn: https://www.linkedin.com/in/shahzadi-noor-50137a382 
