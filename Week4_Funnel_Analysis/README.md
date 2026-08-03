@@ -32,7 +32,7 @@ The objective of this project is to:
 
 ---
 
-# 📂 Dataset
+# Dataset
 
 **Dataset:** Client Site Dataset
 
@@ -124,22 +124,14 @@ Desktop users have the highest conversion rate. Improving the mobile experience 
 
 ---
 
-#  Dashboard Preview
-
-![Dashboard](Screenshots/Week4Dashboard.png)
-
----
 
 # Author
 
 **Shahzadi Noor**
 
-BS Biochemistry
+Data Analysis Intern — LogicStack
 
-Data Analysis Intern – LogicStack Internship
+GitHub: https://github.com/shahzadinoor277-code
 
-GitHub:
-https://github.com/shahzadinoor277-code
-
-LinkedIn:
+LinkedIn: https://www.linkedin.com/in/shahzadi-noor-50137a382
 
