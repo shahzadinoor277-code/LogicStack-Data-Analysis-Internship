@@ -126,7 +126,7 @@ Desktop users have the highest conversion rate. Improving the mobile experience 
 
 #  Dashboard Preview
 
-*(Insert your dashboard screenshot here after uploading it to GitHub.)*
+![Dashboard](Screenshots/Week4Dashboard.png)
 
 ---
 
